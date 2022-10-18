@@ -7,4 +7,3 @@ timer additional
 
 
 
-![image](https://user-images.githubusercontent.com/82801399/196419496-a88f872f-c9f8-4c0a-a8f9-8866572454bd.png)
